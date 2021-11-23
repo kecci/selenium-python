@@ -9,3 +9,6 @@ sudo pip3 install selenium
 ```
 python3 html.py
 ```
+
+source:
+- https://selenium-python.readthedocs.io/locating-elements.html
