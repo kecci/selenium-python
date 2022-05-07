@@ -1,8 +1,9 @@
 # selenium python
 
-1. before running the application:
+1. before running the application, install with this command:
 ```
 sudo pip3 install selenium
+sudo pip3 install webdriver_manager
 ```
 
 2. run application:
