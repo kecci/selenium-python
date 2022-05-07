@@ -1,5 +1,7 @@
 # selenium python
 
+![image](assets/banner.png)
+
 1. before running the application, install with this command:
 ```
 sudo pip3 install selenium
